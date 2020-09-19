@@ -15,7 +15,7 @@ You must have a digital copy of the DGS2 Demo installed to your 3DS.
 
 **It is very important that you follow this guide and do not experiment on your own if something goes wrong. Make sure you see the DGS logo on the top screen in Step 3.**
 ### **IF YOU INSTALL THIS PATCHER TO THE FIRM PARTITION VIA GODMODE9, YOU WILL BRICK AND NEED A FLASHCARD TO RECOVER!**
-*If you follow this guide and do not experiment, this is **perfectly safe**. Ask on the FTI Discord (https://discord.gg/3nYQ9aG) in #dai-gyakuten-saiban if you need help or assistance.*
+*If you follow this guide and do not experiment, this is **perfectly safe**. Ask on the FTI Discord (https://discord.gg/TcBFyQy) in #dai-gyakuten-saiban if you need help or assistance.*
 
 1. Download the latest release from this repository: https://github.com/ScarletStudy/DGS2-3DS-Demo/releases/latest
 2. Extract the release to the root of your 3DS SD Card. `DGS2Demo-Patcher.firm` goes into `sd:/luma/payloads/`, `DGS2Demo-PatchData-v2.X.X.bps` goes into `sd:/3DS/ScarletStudy/`.
